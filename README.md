@@ -22,13 +22,6 @@ This Spring Boot app is developed for the Bajaj Finserv Health Java Qualifier As
 
 ---
 
-## 📄 Assigned Problem
-
-**Question 2**:  
-_For each employee, calculate the number of employees in the same department who are younger than them._
-
----
-
 ## 🧠 Final SQL Query
 
 ```sql
